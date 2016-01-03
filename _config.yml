@@ -1,0 +1,28 @@
+name: UMI
+favicon: null
+layout_spectrum: 0.8239335427060723
+typography_spectrum: 0.8451067330315709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6099774776957929
+  lightness: 0.21914228494279087
+  saturation: 0.35942662111483514
+  rhythmicContrast: 0.756943613756448
+purpose: []
