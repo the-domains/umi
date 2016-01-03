@@ -4,14 +4,14 @@
         <description><![CDATA[The Ultimate Mediator]]></description>
         <link>https://thegrid.ai/umi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 00:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 00:54:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/umi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>home page</p></article>]]></description>
+            <description><![CDATA[<article><h1>Home</h1><p>Testing 2 Navigation</p></article>]]></description>
             <link>https://thegrid.ai/umi/home/index.html</link>
             <guid isPermaLink="false">3afb0af4-cc93-4ff4-b8eb-0dc583486f27</guid>
-            <pubDate>Sun, 03 Jan 2016 00:49:13 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 00:53:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This is a test - Title]]></title>
