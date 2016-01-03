@@ -1,7 +1,7 @@
 name: UMI
 favicon: null
-layout_spectrum: 0.8239335427060723
-typography_spectrum: 0.8451067330315709
+layout_spectrum: 0.00181
+typography_spectrum: 0.37846
 title: The Ultimate Mediator
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6099774776957929
+    - '#424242'
+    - '#040404'
+    - '#ffffff'
+    - '#0072b9'
+    - '#868686'
+  brandStrength: 0.25
   lightness: 0.21914228494279087
   saturation: 0.35942662111483514
   rhythmicContrast: 0.756943613756448
